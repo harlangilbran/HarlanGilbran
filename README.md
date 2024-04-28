@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Harlan Gilbran</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HarlanGilbran.HarlanGilbran" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Harlan Gilbran!;" />
+</h1>
 <h3 align="center">"Currently, I am focusing on learning Front End Development. Every day, I absorb new knowledge and continue to practice. My goal is simple: to become proficient in creating visually appealing and functional interfaces on the web."</h3>
 
 - 🔭 I’m currently working on [web simpel]
