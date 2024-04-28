@@ -11,10 +11,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Periksa kode
-        uses: actions/checkout@v2
+      - name: Checkout code
+        uses: actions/checkout@v3
 
-      - name: Hasilkan Animasi Ular
+      - name: Generate Snake Animation
         uses: Platane/snk@master
         id: snake-gif
         with:
@@ -22,10 +22,16 @@ jobs:
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: Commit dan Push Perubahan
+      - name: Set Outputs
+        run: |
+          echo "::set-output name=gif_path::dist/github-contribution-grid-snake.gif"
+          echo "::set-output name=svg_path::dist/github-contribution-grid-snake.svg"
+        shell: bash
+
+      - name: Commit and Push Changes
         run: |
           git config --global user.email "actions@github.com"
           git config --global user.name "GitHub Actions"
           git add dist/
-          git diff --quiet && git diff --staged --quiet || git commit -m "Perbarui kontribusi ular"
-          git push origin main || { echo "Gagal melakukan push perubahan"; exit 1; }
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update snake contributions"
+          git push origin main || { echo "Failed to push changes"; exit 1; }
