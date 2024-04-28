@@ -52,35 +52,43 @@
         <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vs-code" width="40" height="40"/>
     </a>
 </p>
-
-name: Generate snake game
+name: Generate Snake
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule:
+    # Berjalan setiap 6 jam
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
   build:
-    name: Jobs to update datas
     runs-on: ubuntu-latest
+
     steps:
-      # Snake Animation
-      - uses: Sutil/snk@master
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: HarlanGilbran # Ganti dengan nama pengguna GitHub Anda
-          svg_out_path: dist/github-contribution-grid-snake2.svg
-          snake_color: 'blue'
+          github_user_name: HarlanGilbran
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Set Outputs
+        run: |
+          echo "::set-output name=gif_path::dist/github-contribution-grid-snake.gif"
+          echo "::set-output name=svg_path::dist/github-contribution-grid-snake.svg"
+        shell: bash
 
-
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git add dist/
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update snake contributions"
+          git push origin main || { echo "Failed to push changes"; exit 1; }
 
 
 
