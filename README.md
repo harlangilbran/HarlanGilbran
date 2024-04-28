@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **javascript.visual basic**
 
-- 👯 I’m looking to collaborate on [-](-)
+- 👯 I’m looking to collaborate on [-]
 
-- 🤝 I’m looking for help with [-](-)
+- 🤝 I’m looking for help with [-]
 
 - 💬 Ask me about **"Ask me about anything! I'm here to help."**
 
