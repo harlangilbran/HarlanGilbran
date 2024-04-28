@@ -1,5 +1,5 @@
 <div style="float:right; margin-left:10px;">
-    
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=HarlanGilbran.HarlanGilbran" />
 </div>
 
 <h1 align="center" style="background-color:#f0f0f0;padding:20px;border-radius:10px;">
