@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    # every 6 hours
+    # Berjalan setiap 6 jam
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
@@ -11,22 +11,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - name: Periksa kode
+        uses: actions/checkout@v2
 
-      - uses: Platane/snk@master
+      - name: Hasilkan Animasi Ular
+        uses: Platane/snk@master
         id: snake-gif
         with:
           github_user_name: HarlanGilbran
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: Push changes
+      - name: Commit dan Push Perubahan
         run: |
           git config --global user.email "actions@github.com"
           git config --global user.name "GitHub Actions"
           git add dist/
-          git commit -m "Update snake contributions" || echo "No changes to commit"
-          if ! git push origin main; then
-            echo "Failed to push changes"
-            exit 1
-          fi
+          git diff --quiet && git diff --staged --quiet || git commit -m "Perbarui kontribusi ular"
+          git push origin main || { echo "Gagal melakukan push perubahan"; exit 1; }
