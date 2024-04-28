@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harlan Gilbran</h1>
 <h3 align="center">"Currently, I am focusing on learning Front End Development. Every day, I absorb new knowledge and continue to practice. My goal is simple: to become proficient in creating visually appealing and functional interfaces on the web."</h3>
 
-- 🔭 I’m currently working on [web simpel](-)
+- 🔭 I’m currently working on [web simpel]
 
 - 🌱 I’m currently learning **javascript.visual basic**
 
