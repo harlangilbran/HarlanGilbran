@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **harlangilbran10@gmail.com**
 
-- 📄 Know about my experiences [my github](my github)
+- 📄 Know about my experiences [my github]
 
 - ⚡ Fun fact **"Never say tired, but say for Allah."**
 
