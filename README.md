@@ -53,17 +53,32 @@
     </a>
 </p>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/HarlanGilbran/HarlanGilbran/main/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
-</div>
-<hr>
+name: Generate snake game
 
+on:
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+  workflow_dispatch:
 
+jobs:
+  build:
+    name: Jobs to update datas
+    runs-on: ubuntu-latest
+    steps:
+      # Snake Animation
+      - uses: Sutil/snk@master
+        id: snake-gif
+        with:
+          github_user_name: HarlanGilbran # Ganti dengan nama pengguna GitHub Anda
+          svg_out_path: dist/github-contribution-grid-snake2.svg
+          snake_color: 'blue'
 
-
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 
 
