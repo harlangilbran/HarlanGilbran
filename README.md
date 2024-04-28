@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Harlan+Gilbran!;" />
 </h1>
 
-<h3 align="center">"Currently, I am focusing on learning Front End Development. Every day, I absorb new knowledge and continue to practice. My goal is simple: to become proficient in creating visually appealing and functional interfaces on the web."</h3>
+<h3 align="center">"Now, I'm focused on learning Front End Development. Every day, I absorb new knowledge and keep practicing. The goal is simple: to master creating visually appealing and functional web interfaces."</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 - 🔭 I’m currently working on [simple web projects]
 
