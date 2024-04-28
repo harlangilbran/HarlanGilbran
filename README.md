@@ -2,15 +2,15 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=HarlanGilbran.HarlanGilbran" />
 </div>
 
-<h1 align="center">
+<h1 align="center" style="background-color:#f0f0f0;padding:20px;border-radius:10px;">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Harlan+Gilbran!;" />
 </h1>
 
 <h3 align="center">"Currently, I am focusing on learning Front End Development. Every day, I absorb new knowledge and continue to practice. My goal is simple: to become proficient in creating visually appealing and functional interfaces on the web."</h3>
 
-- 🔭 I’m currently working on [web simpel]
+- 🔭 I’m currently working on [simple web projects]
 
-- 🌱 I’m currently learning **javascript.visual basic**
+- 🌱 I’m currently learning **javascript and visual basic**
 
 - 👯 I’m looking to collaborate on [-]
 
@@ -52,17 +52,3 @@
         <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vs-code" width="40" height="40"/>
     </a>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
