@@ -7,6 +7,7 @@
 </h1>
 
 <h3 align="center">"Currently, I am focusing on learning Front End Development. Every day, I absorb new knowledge and continue to practice. My goal is simple: to become proficient in creating visually appealing and functional interfaces on the web."</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🔭 I’m currently working on [simple web projects]
 
@@ -25,6 +26,7 @@
 - ⚡ Fun fact **"Never say tired, but say for Allah."**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
     <a href="https://instagram.com/harlan_gilbran10" target="_blank" rel="noreferrer">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harlan_gilbran10" height="30" width="40" />
