@@ -37,6 +37,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+    <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/>
+    </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
     </a>
@@ -57,8 +60,3 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/HarlanGilbran/count.svg" />
 </p>
-
-
-
-
-
