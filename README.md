@@ -59,6 +59,7 @@
         <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vs-code" width="40" height="40"/>
     </a>
 </p>
+
 <p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/HarlanGilbran/count.svg" />
