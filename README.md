@@ -10,7 +10,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 - 🔭 I’m currently working on [simple web projects]
 
-- 🌱 I’m currently learning **javascript and PHP**
+- 🌱 I’m currently learning **tailwind,boostrap,c++**
 
 - 👯 I’m looking to collaborate on [-]
 
@@ -42,7 +42,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,mysql,php,flutter,tailwind,nodejs,git,github,bootstrap,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,cpp,mysql,php,tailwind,nodejs,git,github,bootstrap,vscode" />
   </a>
   <a href="https://www.openai.com/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="45" height="47" style="vertical-align: middle;"/>
