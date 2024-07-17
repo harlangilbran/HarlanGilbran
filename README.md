@@ -67,6 +67,10 @@
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="40" height="40"/>
     </a>
+ <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40"/>
+</a>
+
 </p>
 
 <p align="center">
