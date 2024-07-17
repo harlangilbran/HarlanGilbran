@@ -28,65 +28,66 @@
 
 <p align="left">
     <a href="https://instagram.com/harlan_gilbran10" target="_blank" rel="noreferrer">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harlan_gilbran10" height="40" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harlan_gilbran10" height="35" width="35" />
     </a>
     <a href="https://github.com/HarlanGilbran" target="_blank" rel="noreferrer">
-        <img align="center" src="https://skillicons.dev/icons?i=github" alt="HarlanGilbran" height="40" width="40" />
+        <img align="center" src="https://skillicons.dev/icons?i=github" alt="HarlanGilbran" height="35" width="35" />
     </a>
     <a href="https://www.linkedin.com/in/harlan-gilbran-b40a41317/" target="_blank" rel="noreferrer">
-        <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Harlan Gilbran" height="40 width="40" />
+        <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Harlan Gilbran" height="35 width="35" />
     </a>
 </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
- <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html" height="35" width="35" />
   </a>
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css" height="35" width="35" />
   </a>
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js" height="35" width="35" />
   </a>
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp" height="35" width="35" />
   </a>
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql" height="35" width="35" />
   </a>
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php" height="35" width="35" />
   </a>
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tailwind" height="35" width="35" />
   </a>
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs" height="35" width="35" />
   </a>
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet" height="35" width="35" />
   </a>
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git" height="35" width="35" />
   </a>
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github" height="35" width="35" />
   </a>
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap" height="35" width="35" />
   </a>
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode" height="35" width="35" />
   </a>
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ai" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ai" height="35" width="35" />
   </a>
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=visualstudio" height="35" width="35" />
   </a>
 </p>
+
 
 <p align="center">
   Visitor count<br>
