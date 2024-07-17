@@ -42,13 +42,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cpp,mysql,php,tailwind,nodejs,git,github,bootstrap,vscode" />
-  </a>
-  <a href="https://www.openai.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="45" height="47" style="vertical-align: middle;"/>
-  </a>
- <a href="https://dotnet.microsoft.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="VB.NET Core" width="47" height="47" style="vertical-align: middle;"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,cpp,mysql,php,tailwind,nodejs,dotnet,git,github,bootstrap,vscode,ai,visualstudio" />
   </a>
 </p>
 
