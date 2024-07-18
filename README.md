@@ -94,4 +94,9 @@
   <img src="https://profile-counter.glitch.me/HarlanGilbran/count.svg" />
 </p>
 
-![snake gif](https://github.com/harlangilbran/HarlanGilbran/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
+
+https://github.com/harlangilbran/HarlanGilbran/blob/output/github-contribution-grid-snake.gif
