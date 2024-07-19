@@ -91,11 +91,28 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harlangilbran&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harlangilbran&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=blue-green&hide_border=false" height="150" alt="languages graph"/>
-  <img src="https://streak-stats.demolab.com?user=harlangilbran&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/>
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <div style="margin: 10px; text-align: center;">
+    <h3>Stats Graph</h3>
+    <img src="https://github-readme-stats.vercel.app/api?username=harlangilbran&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false" height="180" alt="stats graph"/>
+  </div>
+
+  <div style="margin: 10px; text-align: center;">
+    <h3>Languages Graph</h3>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harlangilbran&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=highcontrast&hide_border=false" height="180" alt="languages graph"/>
+  </div>
+
+  <div style="margin: 10px; text-align: center;">
+    <h3>Streak Graph</h3>
+    <img src="https://streak-stats.demolab.com?user=harlangilbran&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"/>
+  </div>
+
+  <div style="margin: 10px; text-align: center;">
+    <h3>Productive Time Graph</h3>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harlangilbran&theme=highcontrast&utcOffset=8&hide_border=false&border_radius=5&order=3" height="180" alt="productive time graph"/>
+  </div>
 </div>
+
 
 <img src="https://raw.githubusercontent.com/harlangilbran/HarlanGilbran/output/snake.svg" alt="Snake animation" />
 <p align="center">
