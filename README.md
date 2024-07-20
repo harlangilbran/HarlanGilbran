@@ -117,7 +117,7 @@
 
 <img src="https://raw.githubusercontent.com/harlangilbran/HarlanGilbran/output/snake.svg" alt="Snake animation" />
 
-I contribute to various programming and web development projects. You can learn more about my work on [Fiverr](https://www.fiverr.com/harlan_gilbran).
+I offer web design and front-end development services. You can learn more about my work on [Fiverr](https://www.fiverr.com/harlan_gilbran).
 
 <p align="center">
   Visitor count<br>
