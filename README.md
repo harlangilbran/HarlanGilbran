@@ -113,8 +113,12 @@
   </div>
 </div>
 
+## 🏆 Contributions in Programming and Web Development
 
 <img src="https://raw.githubusercontent.com/harlangilbran/HarlanGilbran/output/snake.svg" alt="Snake animation" />
+
+I contribute to various programming and web development projects. You can learn more about my work on [Fiverr](https://www.fiverr.com/harlan_gilbran).
+
 <p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/HarlanGilbran/count.svg" />
