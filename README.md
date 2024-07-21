@@ -80,9 +80,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode" height="35" width="35" />
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ai" height="35" width="35" />
-  </a>
+  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=visualstudio" height="35" width="35" />
   </a>
