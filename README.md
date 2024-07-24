@@ -66,9 +66,6 @@
     <img src="https://skillicons.dev/icons?i=nodejs" height="35" width="35" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet" height="35" width="35" />
-  </a>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git" height="35" width="35" />
   </a>
   <a href="https://skillicons.dev">
