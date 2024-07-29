@@ -51,9 +51,6 @@
     <img src="https://skillicons.dev/icons?i=js" height="35" width="35" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp" height="35" width="35" />
-  </a>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql" height="35" width="35" />
   </a>
   <a href="https://skillicons.dev">
