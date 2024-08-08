@@ -8,6 +8,7 @@
 
 <h3 align="center">"Now, I'm focused on learning Front End Development. Every day, I absorb new knowledge and keep practicing. The goal is simple: to master creating visually appealing and functional web interfaces."</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+
 - 🔭 I’m currently working on [simple web projects]
 
 - 🌱 I’m currently learning **tailwind,bootstrap,React,php**
