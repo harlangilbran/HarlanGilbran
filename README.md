@@ -79,6 +79,9 @@
    <a href="https://www.openai.com/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="35" height="35" />
   </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ubuntu" height="35" width="35" />
+  </a>
 </p>
 
 ## 📈 GitHub Stats
