@@ -83,6 +83,9 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux" height="35" width="35" />
   </a>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ubuntu" height="35" width="35" />
+  </a>
 </p>
 
 ## 📈 GitHub Stats
