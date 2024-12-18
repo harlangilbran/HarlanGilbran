@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **"Ask me about anything! I'm here to help."**
 
-- 📫 How to reach me **harlangilbran10@gmail.com**
+- 📫 How to reach me **harlangilbran19@gmail.com**
 
 - 📄 Know about my experiences [my github]
 
@@ -29,13 +29,16 @@
 
 <p align="left">
     <a href="https://instagram.com/harlan_gilbran10" target="_blank" rel="noreferrer">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harlan_gilbran10" height="35" width="35" />
+        <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="harlan_gilbran10" height="35" width="35" />
     </a>
     <a href="https://github.com/HarlanGilbran" target="_blank" rel="noreferrer">
         <img align="center" src="https://skillicons.dev/icons?i=github" alt="HarlanGilbran" height="35" width="35" />
     </a>
     <a href="https://www.linkedin.com/in/harlan-gilbran-b40a41317/" target="_blank" rel="noreferrer">
         <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Harlan Gilbran" height="35 width="35" />
+    </a>
+   <a href="harlangilbran19@gmail.com" target="_blank" rel="noreferrer">
+        <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Harlan Gilbran" height="35 width="35" />
     </a>
 </p>
 
@@ -52,10 +55,19 @@
     <img src="https://skillicons.dev/icons?i=js" height="35" width="35" />
   </a>
   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php" height="35" width="35" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=jquery" height="35" width="35" />
+  </a>
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tailwind" height="35" width="35" />
   </a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs" height="35" width="35" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql" height="35" width="35" />
   </a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git" height="35" width="35" />
@@ -76,6 +88,9 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=stackoverflow" height="35" width="35" />
   </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio" height="35" width="35" />
+  </a>
    <a href="https://www.openai.com/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="35" height="35" />
   </a>
@@ -85,6 +100,9 @@
   </a>
    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ubuntu" height="35" width="35" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows height="35" width="35" />
   </a>
 </p>
 
