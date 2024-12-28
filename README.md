@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [simple web projects]
 
-- 🌱 I’m currently learning **tailwind,bootstrap,React,php**
+- 🌱 I’m currently learning **php,laravel**
 
 - 👯 I’m looking to collaborate on [-]
 
