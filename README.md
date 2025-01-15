@@ -79,7 +79,11 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode" height="35" width="35" />
   </a>
-  
+ <a href="https://mariadb.com" style="display: inline-block; padding: 5; border-radius: 5;">
+    <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vertical_white.svg" height="35" width="35" alt="MariaDB Logo" />
+</a>
+
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=visualstudio" height="35" width="35" />
   </a>
