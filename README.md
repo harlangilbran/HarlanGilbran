@@ -3,10 +3,12 @@
 </p>
 
 <h1 align="center" style="background-color:#f0f0f0;padding:20px;border-radius:10px;">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Harlan+Gilbran!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Lilita+One&size=35&center=true&vCenter=true&width=600&height=70&duration=5000&lines=Hi+There!+👋;+My+Name+is+Harlan+Gilbran!+😄;+A+Fullstack+Web+Developer!+💻✨" />
 </h1>
 
-<h3 align="center">"Now, I'm focused on learning Front End Development. Every day, I absorb new knowledge and keep practicing. The goal is simple: to master creating visually appealing and functional web interfaces."</h3>
+
+
+<h3 align="center">"I’m now dedicated to mastering Fullstack Web Development. Each day, I immerse myself in learning and honing my skills through practice. My ultimate goal is to build web applications that are not only visually stunning but also highly functional and user-friendly."</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
 - 🔭 I’m currently working on [simple web projects]
