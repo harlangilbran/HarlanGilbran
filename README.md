@@ -135,7 +135,11 @@
     <h3>Productive Time Graph</h3>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harlangilbran&theme=highcontrast&utcOffset=8&hide_border=false&border_radius=5&order=3" height="180" alt="productive time graph"/>
   </div>
-</div>
+</div><br/>
+
+## 🏆 Github Achievements
+  <p align="center"> <a https://github.com/harlangilbran"><img src="https://github-profile-trophy.vercel.app/?username=harlangilbran&margin-w=5&theme=radical" alt="harlan" /></a> </p>
+
 
 ## 🏆 Contributions in Programming and Web Development
 
