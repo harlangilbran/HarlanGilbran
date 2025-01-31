@@ -60,6 +60,9 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=jquery" height="35" width="35" />
   </a>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel" height="35" width="35" />
+  </a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tailwind" height="35" width="35" />
   </a>
