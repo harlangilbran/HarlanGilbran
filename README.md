@@ -46,68 +46,70 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html" height="35" width="35" />
+    <img src="https://skillicons.dev/icons?i=html" height="40" width="40" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css" height="35" width="35" />
+    <img src="https://skillicons.dev/icons?i=css" height="40" width="40" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js" height="35" width="35" />
+    <img src="https://skillicons.dev/icons?i=js" height="40" width="40" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php" height="35" width="35" />
+    <img src="https://skillicons.dev/icons?i=php" height="40" width="40" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jquery" height="35" width="35" />
-  </a>
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel" height="35" width="35" />
+    <img src="https://skillicons.dev/icons?i=jquery" height="40" width="40" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind" height="35" width="35" />
+    <img src="https://skillicons.dev/icons?i=laravel" height="40" width="40" />
+  </a>
+  <a href="https://codeigniter.com">
+    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/codeigniter.svg" height="40" width="40" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs" height="35" width="35" />
+    <img src="https://skillicons.dev/icons?i=tailwind" height="40" width="40" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql" height="35" width="35" />
+    <img src="https://skillicons.dev/icons?i=nodejs" height="40" width="40" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git" height="35" width="35" />
+    <img src="https://skillicons.dev/icons?i=mysql" height="40" width="40" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github" height="35" width="35" />
+    <img src="https://skillicons.dev/icons?i=git" height="40" width="40" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap" height="35" width="35" />
+    <img src="https://skillicons.dev/icons?i=github" height="40" width="40" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode" height="35" width="35" />
+    <img src="https://skillicons.dev/icons?i=bootstrap" height="40" width="40" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio" height="35" width="35" />
+    <img src="https://skillicons.dev/icons?i=vscode" height="40" width="40" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" height="35" width="35" />
+    <img src="https://skillicons.dev/icons?i=visualstudio" height="40" width="40" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio" height="35" width="35" />
-  </a>
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase" height="35" width="35" />
-  </a>
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java" height="35" width="35" />
-  </a>
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux" height="35" width="35" />
-  </a>
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ubuntu" height="35" width="35" />
+    <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" width="40" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows height="35" width="35" />
+    <img src="https://skillicons.dev/icons?i=androidstudio" height="40" width="40" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase" height="40" width="40" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java" height="40" width="40" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux" height="40" width="40" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ubuntu" height="40" width="40" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows" height="40" width="40" />
   </a>
 </p>
 
@@ -136,7 +138,7 @@
 </div><br/>
 
 ## 🏆 Github Achievements
-  <p align="center"> <a https://github.com/harlangilbran"><img src="https://github-profile-trophy.vercel.app/?username=harlangilbran&margin-w=5&theme=radical" alt="harlan" /></a> </p>
+  <p align="center"> <a https://github.com/harlangilbran"><img src="https://github-profile-trophy.vercel.app/?username=harlangilbran&margin-w=5&theme=gruvbox&no-frame=false&no-bg=true" alt="harlan" /></a> </p>
 
 
 ## 🏆 Contributions in Programming and Web Development
