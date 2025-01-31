@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [simple web projects]
 
-- 🌱 I’m currently learning **php,laravel**
+- 🌱 I’m currently learning **php,laravel,Codeigniter**
 
 - 👯 I’m looking to collaborate on [-]
 
