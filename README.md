@@ -45,7 +45,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-<table>
+<table align="center">
   <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML" />
