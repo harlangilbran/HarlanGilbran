@@ -11,21 +11,21 @@
 <h3 align="center">"I’m now dedicated to mastering Fullstack Web Development. Each day, I immerse myself in learning and honing my skills through practice. My ultimate goal is to build web applications that are not only visually stunning but also highly functional and user-friendly."</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
-- 🔭 I’m currently working on [simple web projects]
+- 🔭 Currently working on: Simple web projects
 
-- 🌱 I’m currently learning **php,laravel,Codeigniter**
+- 🌱 Currently learning: PHP, Laravel, CodeIgniter
 
-- 👯 I’m looking to collaborate on [-]
+- 👯 Looking to collaborate on: [Open to opportunities]
 
-- 🤝 I’m looking for help with [-]
+- 🤝 Looking for help with: [Open to contributions]
 
-- 💬 Ask me about **"Ask me about anything! I'm here to help."**
+- 💬 Ask me about: "Anything! I'm here to help."
 
-- 📫 How to reach me **harlangilbran19@gmail.com**
+- 📫 How to reach me: harlangilbran12@gmail.com
 
-- 📄 Know about my experiences [my github]
+- 📄 Know about my experiences: My GitHub
 
-- ⚡ Fun fact **"Never say tired, but say for Allah."**
+-  ⚡ Fun fact: "Never say tired, but say for Allah."
 
 <h3 align="left">Connect with me:</h3>
 
@@ -45,7 +45,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-<table align="center">
+<table>
   <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML" />
@@ -56,17 +56,27 @@
       <br>CSS
     </td>
     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" height="55" alt="JavaScript" />
       <br>JavaScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
+      <br>Node.js
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="PHP" />
       <br>PHP
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=jquery" width="45" height="45" alt="jQuery" />
-      <br>jQuery
-    </td>
+  </tr>
+  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
       <br>Laravel
@@ -76,30 +86,12 @@
       <br>CodeIgniter
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
-      <br>Node.js
+      <img src="https://skillicons.dev/icons?i=jquery" width="45" height="45" alt="jQuery" />
+      <br>jQuery
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55" height="55" alt="MySQL" />
       <br>MySQL
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" height="55" alt="GitHub" />
-      <br>GitHub
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Bootstrap" />
-      <br>Bootstrap
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VS Code" />
@@ -110,28 +102,44 @@
       <br>Visual Studio
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=stackoverflow" width="45" height="45" alt="Stack Overflow" />
-      <br>Stack Overflow
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="Android Studio" />
       <br>Android Studio
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" height="55" alt="Java" />
+      <br>Java
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Firebase" />
       <br>Firebase
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" height="55" alt="Java" />
-      <br>Java
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" />
       <br>Linux
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=ubuntu" width="45" height="45" alt="Ubuntu" />
+      <br>Ubuntu
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" height="55" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=stackoverflow" width="45" height="45" alt="Stack Overflow" />
+      <br>Stack Overflow
     </td>
   </tr>
 </table>
 </p>
+
+
 
 
 ## 📈 GitHub Stats
