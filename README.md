@@ -101,9 +101,9 @@
       <img src="https://skillicons.dev/icons?i=visualstudio" width="45" height="45" alt="Visual Studio" />
       <br>Visual Studio
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="Android Studio" />
-      <br>Android Studio
+        <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" height="55" alt="GitHub" />
+      <br>GitHub
     </td>
   </tr>
   <tr>
@@ -128,8 +128,8 @@
       <br>Git
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" height="55" alt="GitHub" />
-      <br>GitHub
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="Android Studio" />
+      <br>Android Studio
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=stackoverflow" width="45" height="45" alt="Stack Overflow" />
