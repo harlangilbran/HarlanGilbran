@@ -39,6 +39,7 @@
     <a href="https://www.linkedin.com/in/harlan-gilbran-b40a41317/" target="_blank" rel="noreferrer">
         <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Harlan Gilbran" height="35 width="35" />
     </a>
+    
 
 </p>
 
