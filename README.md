@@ -68,6 +68,10 @@
       <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" height="55" alt="JavaScript" />
       <br>JavaScript
     </td>
+     <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="55" height="55" alt="Nginx" />
+      <br>Nginx
+    </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
       <br>Node.js
@@ -93,6 +97,10 @@
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55" height="55" alt="MySQL" />
       <br>MySQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="45" height="45" alt="SQLite" />
+      <br>SQLite
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VS Code" />
