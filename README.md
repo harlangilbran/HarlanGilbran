@@ -144,6 +144,10 @@
       <img src="https://skillicons.dev/icons?i=stackoverflow" width="45" height="45" alt="Stack Overflow" />
       <br>Stack Overflow
     </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=alpinejs" width="45" height="45" alt="Stack Overflow" />
+      <br>Alpine.js
+    </td>
   </tr>
 </table>
 </p>
