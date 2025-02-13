@@ -87,8 +87,8 @@
       <br>Laravel
     </td>
     <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/codeigniter.svg" width="45" height="45" alt="CodeIgniter" />
-      <br>CodeIgniter
+      <img src="https://skillicons.dev/icons?i=npm" width="45" height="45" alt="npm" />
+      <br>NPM
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=jquery" width="45" height="45" alt="jQuery" />
