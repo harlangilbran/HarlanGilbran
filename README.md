@@ -170,7 +170,7 @@
 
   <div style="margin: 10px; text-align: center;">
     <h3>Streak Graph</h3>
-    <img src="https://streak-stats.demolab.com?user=harlangilbran&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"/>
+    <img src="https://streak-stats.demolab.com?user=harlangilbran&theme=midnight-purple&card_height=180" alt="streak graph"/>
   </div>
 
   <div style="margin: 10px; text-align: center;">
