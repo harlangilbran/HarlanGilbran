@@ -160,14 +160,13 @@
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
   <div style="margin: 10px; text-align: center;">
     <h3>Stats Graph</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=harlangilbran&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false" height="180" alt="stats graph"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=harlangilbran&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="180" alt="stats graph"/>
   </div>
   
   <div style="margin: 10px; text-align: center;">
     <h3>Languages Graph</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harlangilbran&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=highcontrast&hide_border=false" height="180" alt="languages graph"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harlangilbran&locale=en&hide_title=false&disable_animations=false&layout=compact&card_width=320&langs_count=6&theme=midnight-purple&hide_border=false" height="180" alt="languages graph"/>
   </div>
-
   <div style="margin: 10px; text-align: center;">
     <h3>Streak Graph</h3>
     <img src="https://streak-stats.demolab.com?user=harlangilbran&theme=midnight-purple&card_height=180" alt="streak graph"/>
@@ -175,7 +174,7 @@
 
   <div style="margin: 10px; text-align: center;">
     <h3>Productive Time Graph</h3>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harlangilbran&theme=highcontrast&utcOffset=8&hide_border=false&border_radius=5&order=3" height="180" alt="productive time graph"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harlangilbran&theme=midnight_purple&utcOffset=8" height="180" alt="productive time graph"/>
   </div>
 </div><br/>
 
