@@ -10,6 +10,9 @@
   <p align="center"><img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 </p> 
 </div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Hi pretty_♡-black" />
+</div><br><br>
 
 
 <details align="center">
