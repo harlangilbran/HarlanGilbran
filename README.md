@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://profile-counter.glitch.me/HarlanGilbran/count.svg" />
-</p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=harlangilbran&label=Profile%20views&color=0e75b6&style=flat" alt="harlangilbran" /> </p>
+
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Lilita+One&size=35&center=true&vCenter=true&width=600&height=70&duration=5000&color=6b21a8&lines=Hi+There!+👋;+My+Name+is+Harlan+Gilbran!+😄;+A+Fullstack+Web+Developer!+💻✨" />
@@ -149,6 +148,16 @@
       <br>Alpine.js
     </td>
   </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="wordpress" />
+      <br>Wordpress
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="figma" />
+      <br>figma
+    </td>
+  </tr>
 </table>
 </p>
 
@@ -187,8 +196,5 @@
 <img src="https://raw.githubusercontent.com/harlangilbran/HarlanGilbran/output/snake.svg" alt="Snake animation" />
 
 
-<p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/HarlanGilbran/count.svg" />
-</p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=harlangilbran&label=Profile%20views&color=0e75b6&style=flat" alt="harlangilbran" /> </p>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="22.3" width="1000"/>
