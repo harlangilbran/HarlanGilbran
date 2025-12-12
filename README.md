@@ -192,9 +192,14 @@
 
 
 ## 🏆 Contributions in Programming and Web Development
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harlangilbran/harlangilbran/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harlangilbran/harlangilbran/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/harlangilbran/harlangilbran/output/pacman-contribution-graph.svg">
+</picture>
 
 <img src="https://raw.githubusercontent.com/harlangilbran/HarlanGilbran/output/snake.svg" alt="Snake animation" />
 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=harlangilbran&label=Profile%20views&color=0e75b6&style=flat" alt="harlangilbran" /> </p>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="22.3" width="1000"/>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=harlangilbran&label=Profile%20views&color=0e75b6&style=flat" alt="harlangilbran" /> </p>
